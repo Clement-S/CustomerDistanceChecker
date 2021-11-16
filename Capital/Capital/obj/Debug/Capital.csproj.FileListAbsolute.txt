@@ -1,0 +1,6 @@
+C:\Users\Seyi07\Documents\CustomerDistanceChecker\Capital\Capital\bin\Debug\Capital.exe.config
+C:\Users\Seyi07\Documents\CustomerDistanceChecker\Capital\Capital\bin\Debug\Capital.exe
+C:\Users\Seyi07\Documents\CustomerDistanceChecker\Capital\Capital\bin\Debug\Capital.pdb
+C:\Users\Seyi07\Documents\CustomerDistanceChecker\Capital\Capital\obj\Debug\Capital.csprojResolveAssemblyReference.cache
+C:\Users\Seyi07\Documents\CustomerDistanceChecker\Capital\Capital\obj\Debug\Capital.exe
+C:\Users\Seyi07\Documents\CustomerDistanceChecker\Capital\Capital\obj\Debug\Capital.pdb
